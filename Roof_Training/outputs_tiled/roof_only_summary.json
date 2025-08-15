@@ -1,0 +1,18 @@
+{
+  "image": "C:\\Users\\saifb\\Downloads\\RoofDamageProject\\Roof_Training\\roof_only.tif",
+  "mask_training_labels": "C:\\Users\\saifb\\Downloads\\RoofDamageProject\\Roof_Training\\Roof_Mask.tif",
+  "epochs": 1,
+  "tile": 256,
+  "stride": 256,
+  "threshold": 0.5,
+  "total_pixels": 9125952,
+  "damaged_pixels": 3302509,
+  "undamaged_pixels": 5823443,
+  "percent_damaged": 36.188104,
+  "per_pixel_m2": 0.0008999999999954172,
+  "total_area_m2": 8213.356799958177,
+  "damaged_area_m2": 2972.258099984865,
+  "pred_mask_png": "C:\\Users\\saifb\\Downloads\\RoofDamageProject\\Roof_Training\\outputs_tiled\\roof_only_pred_mask.png",
+  "pred_mask_tif": "C:\\Users\\saifb\\Downloads\\RoofDamageProject\\Roof_Training\\outputs_tiled\\roof_only_pred_mask.tif",
+  "device": "cpu"
+}
