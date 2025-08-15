@@ -1,7 +1,0 @@
-Projection    UTM
-Zone          17
-Datum         WGS84
-Spheroid      WGS84
-Units         METERS
-Zunits        METERS /* WGS_1984 - VCS# = 115700
-Parameters    
